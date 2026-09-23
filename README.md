@@ -26,4 +26,4 @@ The foreground service starts only after the user chooses to drop an anchor and 
 
 [Join the beta signup group](https://groups.google.com/g/quiet-dials-beta/about).
 
-Joining the group is a signup, not an installation. The Google Play test release is being prepared. An installation link will be provided once available. Requires Wear OS 6 or newer.
+Joining the group is a signup, not an installation. The Google Play closed test was submitted for review on 23 September 2026. An installation link will be provided after approval. Requires Wear OS 6 or newer.
