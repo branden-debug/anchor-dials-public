@@ -1,8 +1,10 @@
-# Anchor Dials review materials
+# Anchor Dials
 
 Anchor Dials: Watch Faces is a Wear OS 6+ watch application by Branded Abstract.
 
 Support: brandedabstract@gmail.com
+
+**Want to try it? [Start with the beta guide](BETA.md).** It has the current access status, install steps and fixes for common setup problems.
 
 ## Location foreground service demonstration
 
@@ -26,4 +28,4 @@ The foreground service starts only after the user chooses to drop an anchor and 
 
 [Join the beta signup group](https://groups.google.com/g/quiet-dials-beta/about).
 
-Joining the group is a signup, not an installation. The Google Play closed test was submitted for review on 23 September 2026. An installation link will be provided after approval. Requires Wear OS 6 or newer.
+The Google Play closed test is live. Joining the group is a signup, not a Play test opt-in or installation. Promo-code redemption is currently failing; a temporary £0 offer is scheduled for 25 September to 8 October and still needs a verified install. Please don't pay. The [beta guide](BETA.md) is the current source for access and setup instructions.
