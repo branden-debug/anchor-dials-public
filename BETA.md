@@ -2,7 +2,9 @@
 
 Seven textured watch dials and a parking anchor for **Wear OS 6 or newer**. No phone companion app is needed.
 
-**24 September: free installation is being fixed.** Google Play rejected the beta promo codes. A £0 offer is scheduled for **25 September to 8 October**, but we haven't verified the free install yet. Please don't pay or keep retrying a code. We'll update this page when it works.
+**25 September: free beta installation is available. No promo code needed.** The £0 offer is running until **8 October 2026**, and a Galaxy Watch 8 Classic tester has confirmed a free installation. This confirms access and installation, not that every feature has been tested on every watch.
+
+**Already joined the group and the Play test? [Go straight to Google Play](https://play.google.com/store/apps/details?id=personal.quietdials.helper) and select your watch.**
 
 ## Join once
 
@@ -15,7 +17,7 @@ Group membership alone doesn't join the Play test. Please stay opted in for at l
 
 ## Install on your watch
 
-Once this page confirms free access, use the Google Play download link on the test page, or [open the Play listing](https://play.google.com/store/apps/details?id=personal.quietdials.helper). Select your **watch**, not your phone, as the installation device. Keep the watch online while it downloads.
+Use the Google Play download link on the test page, or [open the Play listing](https://play.google.com/store/apps/details?id=personal.quietdials.helper). Select your **watch**, not your phone, as the installation device. No code is required during the free offer. Keep the watch online while it downloads.
 
 If Play shows a price during the confirmed free-access period, stop and email **brandedabstract@gmail.com**. Don't purchase it to get past an error.
 
@@ -37,7 +39,7 @@ The spot lives on the watch. Opening it in Maps doesn't add it to Maps' Saved li
 | What you see | What to try |
 | --- | --- |
 | “App not available” on the test page | Check the Google account matches your group membership and watch's Play Store. Finish joining the group, then reopen the test link. |
-| No compatible device | Check the watch has Wear OS 6+, is connected and appears under your Google Play account. This is a watch app, so your phone isn't an installation target. |
+| No compatible device | Check the watch has **Wear OS 6 or newer**, is connected and appears under your Google Play account. Wear OS 4/5 cannot install this beta. On Samsung, check **Settings → About watch → Software information**; One UI 8 Watch is the relevant generation, not One UI 5 or 6. Check for available watch software updates. This is a watch app, so your phone is not an installation target. |
 | Installed, but no new face | Open Anchor Dials on the watch and complete **Set up your face**. If switching was denied, select it manually from the face picker. |
 | Anchor won't save | Check watch location is on and precise location is allowed for Anchor Dials. Try outside and wait for the saved state before leaving. |
 | Phone directions don't open | Unlock your paired phone and check its connection and Google Maps. Try **Watch** instead. Your saved anchor is kept. |

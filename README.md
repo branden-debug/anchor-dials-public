@@ -28,4 +28,4 @@ The foreground service starts only after the user chooses to drop an anchor and 
 
 [Join the beta signup group](https://groups.google.com/g/quiet-dials-beta/about).
 
-The Google Play closed test is live. Joining the group is a signup, not a Play test opt-in or installation. Promo-code redemption is currently failing; a temporary £0 offer is scheduled for 25 September to 8 October and still needs a verified install. Please don't pay. The [beta guide](BETA.md) is the current source for access and setup instructions.
+The Google Play closed test is live. Joining the group is a signup, not a Play test opt-in or installation. **Free beta access is available from 25 September to 8 October 2026, with no promo code required.** A Galaxy Watch 8 Classic tester has confirmed a free installation. Select your watch in Google Play. If a price appears during this period, stop and contact support. The [beta guide](BETA.md) is the current source for access and setup instructions.
