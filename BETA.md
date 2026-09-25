@@ -45,6 +45,8 @@ Hold your new face and tap **Edit** to choose a dial and complications. The seve
 3. Tap the lowered anchor and choose **Watch** or **Phone** for Google Maps directions. You can change that choice later; opening Maps doesn't clear the spot.
 4. To clear the spot, tap the lowered anchor on your dial. In the menu, press and hold the big anchor until the ring fills. You can also keep turning the crown or rotating bezel until it fills. Let go or stop early and the anchor splashes back down, keeping your spot saved. You do not need to start navigation, and there is no extra confirmation after the full ring.
 
+**Known issue in 0.22.1-beta2:** clearing the anchor can leave you on “Your Collection” instead of the dial. The spot is still cleared. Press the crown/Home button to return to your face. A fix is being submitted in 0.22.3-beta4; no reinstall is needed.
+
 The spot lives on the watch. Opening it in Maps doesn't add it to Maps' Saved list. For a copy you can use after the watch dies, open it on the phone and save it in Maps yourself. Raising the anchor won't delete that separate Maps copy.
 
 ## If something gets stuck
