@@ -4,7 +4,9 @@ Seven textured watch dials and a parking anchor for **Wear OS 6 or newer**. No p
 
 **25 September: free beta installation is available. No promo code needed.** The £0 offer is running until **8 October 2026**, and a Galaxy Watch 8 Classic tester has confirmed a free installation. This confirms access and installation, not that every feature has been tested on every watch.
 
-**Already joined the group and the Play test? [Go straight to Google Play](https://play.google.com/store/apps/details?id=personal.quietdials.helper) and select your watch.**
+**Already joined the group and the Play test? Open Play Store on your watch and search for “Anchor Dials”.**
+
+**Phone says “Your device isn’t compatible”?** Some phone listing links open a Play screen with no watch selector. That screen alone does not tell us whether your watch is compatible. Use the watch or computer route below. We are checking the phone install flow; a successful install on one watch does not mean every link works.
 
 ## Join once
 
@@ -17,7 +19,16 @@ Group membership alone doesn't join the Play test. Please stay opted in for at l
 
 ## Install on your watch
 
-Use the Google Play download link on the test page, or [open the Play listing](https://play.google.com/store/apps/details?id=personal.quietdials.helper). Select your **watch**, not your phone, as the installation device. No code is required during the free offer. Keep the watch online while it downloads.
+After joining the Play test:
+
+1. On the **watch**, open **Play Store** and search for **Anchor Dials** by **Branded Abstract**.
+2. Tap **Install**. No promo code is needed during the free offer. Keep the watch online while it downloads.
+
+If it does not appear, check the Google account selected in the watch’s Play Store is the one you used to join the group and Play test. Also check the watch has **Wear OS 6 or newer**.
+
+**From a computer:** [open the Play listing](https://play.google.com/store/apps/details?id=personal.quietdials.helper), sign into that same Google account, click **Install**, then choose your **watch**. We verified that this chooser offers Pixel Watch 3 while correctly excluding the phone and tablet on the same account.
+
+**From a phone:** if the Play listing offers a device selector, choose your watch. If it only shows “Your device isn’t compatible”, close that screen and use Play Store on the watch or the computer route. You can also try copying the listing address into Chrome’s address bar and enabling **Desktop site**, rather than tapping a link that reopens the phone’s Play sheet. This browser workaround has not yet been verified on the affected phones.
 
 If Play shows a price during the confirmed free-access period, stop and email **brandedabstract@gmail.com**. Don't purchase it to get past an error.
 
@@ -41,7 +52,8 @@ The spot lives on the watch. Opening it in Maps doesn't add it to Maps' Saved li
 | What you see | What to try |
 | --- | --- |
 | “App not available” on the test page | Check the Google account matches your group membership and watch's Play Store. Finish joining the group, then reopen the test link. |
-| No compatible device | Check the watch has **Wear OS 6 or newer**, is connected and appears under your Google Play account. Wear OS 4/5 cannot install this beta. On Samsung, check **Settings → About watch → Software information**; One UI 8 Watch is the relevant generation, not One UI 5 or 6. Check for available watch software updates. This is a watch app, so your phone is not an installation target. |
+| Phone listing says “Your device isn’t compatible”, with no watch selector | Use the watch or computer route above. Do not uninstall your face or leave the beta. A phone-only warning is not proof that your watch is unsupported. |
+| The watch itself is unavailable or incompatible | Check the watch has **Wear OS 6 or newer**, is connected and appears under your Google Play account. Wear OS 4/5 cannot install this beta. On Samsung, check **Settings → About watch → Software information**; One UI 8 Watch is the relevant generation, not One UI 5 or 6. Check for available watch software updates. This is a watch app, so your phone is not an installation target. |
 | Installed, but no new face | Open Anchor Dials on the watch and complete **Set up your face**. If switching was denied, select it manually from the face picker. |
 | Anchor won't save | Check watch location is on and precise location is allowed for Anchor Dials. Try outside and wait for the saved state before leaving. |
 | Phone directions don't open | Unlock your paired phone and check its connection and Google Maps. Try **Watch** instead. Your saved anchor is kept. |
