@@ -32,7 +32,7 @@ Hold your new face and tap **Edit** to choose a dial and complications. The seve
 1. Tap the anchor on the dial where you want to save a spot. On first use, allow precise location. Outdoors is best for the first test.
 2. Wait for the lowered anchor. Two short vibrations mean saved, three long ones mean it failed, if vibration is enabled. The splash alone isn't confirmation that GPS has saved your spot.
 3. Tap the lowered anchor and choose **Watch** or **Phone** for Google Maps directions. You can change that choice later; opening Maps doesn't clear the spot.
-4. To clear it, fully wind the crown or rotating bezel, or hold the anchor until the ring completes. Let go early and the spot stays saved.
+4. To clear the spot, tap the lowered anchor on your dial. In the menu, press and hold the big anchor until the ring fills. You can also keep turning the crown or rotating bezel until it fills. Let go or stop early and the anchor splashes back down, keeping your spot saved. You do not need to start navigation, and there is no extra confirmation after the full ring.
 
 The spot lives on the watch. Opening it in Maps doesn't add it to Maps' Saved list. For a copy you can use after the watch dies, open it on the phone and save it in Maps yourself. Raising the anchor won't delete that separate Maps copy.
 
