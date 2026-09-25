@@ -53,7 +53,7 @@ Hold your new face and tap **Edit** to choose a dial and complications. The seve
 3. Tap the lowered anchor and choose **Watch** or **Phone** for Google Maps directions. You can change that choice later; opening Maps doesn't clear the spot.
 4. To clear the spot, tap the lowered anchor on your dial. In the menu, press and hold the big anchor until the ring fills. You can also keep turning the crown or rotating bezel until it fills. Let go or stop early and the anchor splashes back down, keeping your spot saved. You do not need to start navigation, and there is no extra confirmation after the full ring.
 
-**Update, 25 September:** 0.22.3-beta4 is now on Play and should take you straight back to the dial after you raise the anchor, instead of “Your Collection”. Play updates the app by itself. To update now, open Anchor Dials in the watch’s Play Store and tap **Update**. No reinstall or new setup is needed.
+**Fixed in 0.22.3-beta4, 25 September:** after you raise the anchor, you go straight back to the dial instead of “Your Collection”. We checked this on a Pixel Watch 3 updated through Play. Play updates the app by itself. To update now, open Anchor Dials in the watch’s Play Store and tap **Update**. No reinstall or new setup is needed.
 
 The spot lives on the watch. Opening it in Maps doesn't add it to Maps' Saved list. For a copy you can use after the watch dies, open it on the phone and save it in Maps yourself. Raising the anchor won't delete that separate Maps copy.
 
