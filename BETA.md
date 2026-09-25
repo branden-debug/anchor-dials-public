@@ -8,6 +8,8 @@ Seven textured watch dials and a parking anchor for **Wear OS 6 or newer**. No p
 
 **Phone says “Your device isn’t compatible”?** Some phone listing links open a Play screen with no watch selector. That screen alone does not tell us whether your watch is compatible. Use the Chrome steps below to reach the watch selector. We are checking the phone install flow; a successful install on one watch does not mean every link works.
 
+**Phone setup update submitted, 25 September:** we have built an optional phone app for this same listing. It finds your connected watch and opens its install page with a setup button. It is waiting for Google’s checks and review, so it is **not available through Play yet**. We will update these instructions after the real Play install has been checked. Existing watch users do not need to reinstall.
+
 ## Join once
 
 Use the **same Google account as the Play Store on your watch** for both steps:
