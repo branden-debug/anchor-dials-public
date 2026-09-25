@@ -1,6 +1,6 @@
 # Anchor Dials privacy policy
 
-Policy revision: 23 September 2026. Applies to the Anchor Dials watch app and its included dial collection.
+Policy revision: 25 September 2026. Applies to the Anchor Dials watch app, its included dial collection and optional Android phone setup app.
 
 Branded Abstract provides Anchor Dials (previously named Quiet Dials). Website: https://brandedabstract.com. For support, privacy questions or a deletion request, contact brandedabstract@gmail.com.
 
@@ -13,6 +13,10 @@ Location is optional. You can use the watch face without saving an anchor. Decli
 An anchor remains until you raise it, replace it, clear the helper's app storage or uninstall the helper. Raising clears its local coordinates immediately. Completing the crown, rotating-bezel or hold gesture confirms clearing. There is no second confirmation or Undo screen.
 
 The helper also contains compatibility with an existing Anchor Dials installation on a paired device using Google's Wear Data Layer. A matching installation can receive the saved spot and deletion updates. The data transport is controlled by Wear OS and Google Play services. Sync may be delayed when devices are disconnected. A phone helper is not required for this watch setup. Clearing an offline device's app storage alone does not remotely delete an existing copy on another device. Raise the anchor while connected before removing an old paired installation, or clear that installation separately.
+
+## Optional phone setup app
+
+The phone setup app asks Google Play services for connected Wear OS devices, using their display names and connection identifiers to show setup buttons and open the Anchor Dials Play listing on your chosen watch. This connection information is used in memory, not stored by the app or sent to Branded Abstract. The phone app displays dial previews and setup instructions. It does not request location or health permissions, read or store your saved anchor, or provide an anchor backup. Google Play services handles the device connection under its own policies. The watch works without this optional phone app.
 
 ## Opening Google Maps
 
