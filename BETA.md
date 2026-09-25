@@ -6,7 +6,7 @@ Seven textured watch dials and a parking anchor for **Wear OS 6 or newer**. No p
 
 **Already joined the group and the Play test? Use the [direct Play listing](https://play.google.com/store/apps/details?id=personal.quietdials.helper). This closed beta may not appear in Play search, even with your watch selected.**
 
-**Phone says “Your device isn’t compatible”?** Some phone listing links open a Play screen with no watch selector. That screen alone does not tell us whether your watch is compatible. See the verified computer alternative below. We are checking the phone install flow; a successful install on one watch does not mean every link works.
+**Phone says “Your device isn’t compatible”?** Some phone listing links open a Play screen with no watch selector. That screen alone does not tell us whether your watch is compatible. Use the Chrome steps below to reach the watch selector. We are checking the phone install flow; a successful install on one watch does not mean every link works.
 
 ## Join once
 
@@ -21,13 +21,22 @@ Group membership alone doesn't join the Play test. Please stay opted in for at l
 
 After joining the Play test, [open the direct Play listing](https://play.google.com/store/apps/details?id=personal.quietdials.helper) with the same Google account. If it offers your watch, select it and tap **Install**. No promo code is needed during the free offer.
 
-**Phone link stuck on “Your device isn’t compatible”?** We have confirmed this on a phone whose Pixel Watch 3 is recognised by Play and can install the app. The phone link problem is still unresolved. Searching again or changing the search filter is not a dependable fix: [Google says closed tests before open testing or production are not discoverable through Play search](https://support.google.com/googleplay/android-developer/answer/9845334?hl=en-GB).
+**Phone link stuck on “Your device isn’t compatible”?** The phone Play panel is currently failing to offer the watch for some users. We reproduced this on a OnePlus phone paired with Pixel Watch 3. You can get to the watch selector in Chrome instead:
 
-**Verified alternative from a computer:** open the direct listing above, sign into the same account, click **Install**, then choose your **watch**. We verified that this chooser offers Pixel Watch 3 while excluding the phone and tablet on the same account.
+1. Copy this address, then paste it into **Chrome’s address bar** and press Go. Tapping a link from an email can reopen the faulty Play panel.
 
-**If Anchor Dials is already visible in Play Store on your watch**, you can install or update it there. Do not rely on searching for it appearing for every tester.
+   ```text
+   https://play.google.com/store/apps/details?id=personal.quietdials.helper
+   ```
 
-**Phone browser alternative, still unverified on affected phones:** copy the listing address into Chrome’s address bar and enable **Desktop site**. This may avoid the phone Play sheet, but we haven't confirmed a successful install through this route yet.
+2. Stay in Chrome. If asked to **Continue to Google Play Store**, ignore that prompt. Do not tap **See in Play Store app**.
+3. Tap **Install** or **Install on more devices**, then select your watch. Use the Google account enrolled in the beta.
+
+**What we checked:** this opens the device chooser on the affected phone without Desktop site. It correctly recognises Pixel Watch 3 and reports that our existing copy is already installed. We haven't yet verified a new tester's complete download through this browser route. The native Play panel itself is still unresolved.
+
+**From a computer:** open the direct listing above, sign into the same account, click **Install**, then choose your **watch**. This chooser was also verified with Pixel Watch 3.
+
+**If Anchor Dials is already visible in Play Store on your watch**, you can install or update it there. Don't rely on searching for it appearing for every tester: [Google says closed tests before open testing or production are not discoverable through Play search](https://support.google.com/googleplay/android-developer/answer/9845334?hl=en-GB).
 
 If Play shows a price during the confirmed free-access period, stop and email **brandedabstract@gmail.com**. Don't purchase it to get past an error.
 
@@ -53,7 +62,7 @@ The spot lives on the watch. Opening it in Maps doesn't add it to Maps' Saved li
 | What you see | What to try |
 | --- | --- |
 | “App not available” on the test page | Check the Google account matches your group membership and watch's Play Store. Finish joining the group, then reopen the test link. |
-| Phone listing says “Your device isn’t compatible”, with no watch selector | Use the verified computer alternative above. Do not uninstall your face or leave the beta. A phone-only warning is not proof that your watch is unsupported. |
+| Phone listing says “Your device isn’t compatible”, with no watch selector | Paste the link into Chrome’s address bar and use the web device chooser, as explained above. Do not uninstall your face or leave the beta. A phone-only warning is not proof that your watch is unsupported. |
 | The watch itself is unavailable or incompatible | Check the watch has **Wear OS 6 or newer**, is connected and appears under your Google Play account. Wear OS 4/5 cannot install this beta. On Samsung, check **Settings → About watch → Software information**; One UI 8 Watch is the relevant generation, not One UI 5 or 6. Check for available watch software updates. This is a watch app, so your phone is not an installation target. |
 | Installed, but no new face | Open Anchor Dials on the watch and complete **Set up your face**. If switching was denied, select it manually from the face picker. |
 | Anchor won't save | Check watch location is on and precise location is allowed for Anchor Dials. Try outside and wait for the saved state before leaving. |
