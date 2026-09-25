@@ -21,7 +21,9 @@ Use the Google Play download link on the test page, or [open the Play listing](h
 
 If Play shows a price during the confirmed free-access period, stop and email **brandedabstract@gmail.com**. Don't purchase it to get past an error.
 
-Open **Anchor Dials** from the watch's app list. In the current beta, choose **Set up your face → Install or update → Add the collection → Use this watch face**. Allow face switching when the watch asks. You can also hold your current face and select Anchor Dials from the face picker once the collection is installed.
+Open **Anchor Dials** from the watch's app list to finish setup. Version **0.22.1-beta2**, published on 25 September, opens setup on first launch. Choose **Add the collection** if it is offered, then **Use this watch face**. Allow face switching when the watch asks.
+
+If you still get the older menu, choose **Set up your face** and follow the install prompts. The update can take a while to appear in Play. If the face is already installed, you can also hold your current face and select Anchor Dials from the face picker.
 
 Hold your new face and tap **Edit** to choose a dial and complications. The seven designs share your choices. Fitbit, Samsung Health and other installed providers supply their own values and goals. Some supply text only, so they won't show a progress hand.
 
